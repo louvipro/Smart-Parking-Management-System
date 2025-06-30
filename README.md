@@ -115,7 +115,7 @@ If you are not using Docker, you will need to install Ollama directly on your sy
 
 First, ensure your database is initialized. This command is safe to run multiple times.
 ```bash
-python src/init_database.py
+python -m src.init_database
 ```
 
 Then, launch the Streamlit frontend.

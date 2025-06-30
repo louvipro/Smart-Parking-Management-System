@@ -31,7 +31,7 @@ dependencies = [
 # uses also the depenencies in the [project.dependencies] section
 [tool.uv]
 managed = true
-default-groups = ["dev"]
+
 
 [project.optional-dependencies]
 dev = [
