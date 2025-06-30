@@ -59,7 +59,7 @@ Ask the AI anything about the parking status:
 
 **1. Clone the Repository**
 ```bash
-git clone https://github.com/louvipro/smart_parking_management.git
+git clone https://github.com/louvipro/Smart-Parking-Management-System.git
 cd smart-parking-management
 ```
 
